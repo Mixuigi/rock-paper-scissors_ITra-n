@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ITransition_RockPaperScissors": {
+      "commandName": "Project",
+      "commandLineArgs": "Rock"
+    }
+  }
+}
